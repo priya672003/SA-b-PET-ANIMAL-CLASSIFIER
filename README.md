@@ -17,8 +17,8 @@ Developed by   : PRIYADARSHINI R
 
 RegisterNumber :  212220230038
 
-## OUTPUT:
-1. CODE :
+
+### 1. CODE :
 
 ```PYTHON 3
 import numpy as np
@@ -71,6 +71,12 @@ print("Our model says it is a :", pred)
 
 ```
 
+### 2. DEMO VIDEO YOUTUBE LINK:
+
+
+
+
+## OUTPUT:
 ![image](https://user-images.githubusercontent.com/81132849/173227798-21dedf98-0c2e-4d6f-bca6-7a2368d5dce9.png)
 
 ![image](https://user-images.githubusercontent.com/81132849/173227819-ea19d22c-763f-4188-953b-91ce4d45687f.png)
@@ -81,6 +87,6 @@ print("Our model says it is a :", pred)
 
 
 
-2. DEMO VIDEO YOUTUBE LINK:
+
 
 
