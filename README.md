@@ -69,6 +69,8 @@ else:
     
 print("Our model says it is a :", pred)
 
+```
+
 ![image](https://user-images.githubusercontent.com/81132849/173227798-21dedf98-0c2e-4d6f-bca6-7a2368d5dce9.png)
 
 ![image](https://user-images.githubusercontent.com/81132849/173227819-ea19d22c-763f-4188-953b-91ce4d45687f.png)
@@ -78,7 +80,6 @@ print("Our model says it is a :", pred)
 ![image](https://user-images.githubusercontent.com/81132849/173227872-1041c1fa-1c57-42f1-b419-eb0c333d16fc.png)
 
 
-```
 
 2. DEMO VIDEO YOUTUBE LINK:
 
